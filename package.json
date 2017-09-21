@@ -1,0 +1,11 @@
+{
+  "name": "cordova-externalstoragepath-plugin",
+  "version": "1.0.3",
+  "cordova": {
+    "id": "cordova-externalstoragepath-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "A plugin for retrieving your external storage path. Works with Android 7."
+}
